@@ -10,11 +10,3 @@ This repository contains numerical implementations of:
 
 Language used: C++
 
-## Folder Structure
-- emlib/     : User-defined EM libraries
-- examples/  : Programs using the libraries
-- report/    : LaTeX report
-
-## How to compile
-Example:
-g++ emlib/coulomb.cpp examples/coulomb_3d.cpp -o coulomb
