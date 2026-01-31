@@ -1,6 +1,1 @@
 include/Gauss.h
-include/Maxwell1D.h
-include/Maxwell2D.h
-include/biotsavart.h
-include/Maxwell1l3D.h
-include/coulomb.h
