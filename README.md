@@ -1,5 +1,5 @@
 # Electromagnetism Numerical Simulation Library
-### Developed by Abinash Limboo | Department of Physics, Sikkim University
+### By Abinash Limboo | Department of Physics, Sikkim University
 
 This repository contains a comprehensive collection of numerical solvers for the fundamental laws of Electromagnetism. Each law is implemented in 1D, 2D, and 3D to visualize field distributions and magnitudes using computational methods.
 
